@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
             const formStatus = document.getElementById('form-status');
 
             try {
-                const response = await fetch('https://formspree.io/f/webixlabtech@gmail.com', {
+                const response = await fetch('https://formspree.io/f/mlddpybe', {
                     method: 'POST',
                     body: formData,
                     headers: {
