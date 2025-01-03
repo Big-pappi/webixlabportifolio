@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
             const formStatus = document.getElementById('form-status');
 
             try {
-                const response = await fetch('https://formspree.io/f/mlddpybe', {
+                const response = await fetch('https://usebasin.com/f/a933c53c7501', {
                     method: 'POST',
                     body: formData,
                     headers: {
